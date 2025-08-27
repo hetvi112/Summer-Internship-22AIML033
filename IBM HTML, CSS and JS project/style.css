@@ -1,0 +1,16 @@
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.skill {
+  text-align: center;
+}
+
+.skill img {
+  width: 60px;
+  height: 60px;
+  display: block;
+  margin: 0 auto 10px;
+}
